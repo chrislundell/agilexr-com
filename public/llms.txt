@@ -1,0 +1,61 @@
+# AgileXR
+
+> World-class offshore software development and outsourcing. Senior engineers across mobile apps, API development, QA testing, cloud infrastructure, and SAP implementation.
+
+AgileXR is an offshore software development and outsourcing firm that provides senior engineering teams to growth-stage companies and enterprise teams with capability gaps. The firm delivers mobile apps (iOS, Android, React Native), API development, QA testing, web hosting, SAP implementation, and AWS configuration.
+
+## Company
+
+- **Name**: AgileXR
+- **Website**: https://agilexr.com
+- **Email**: info@agilexr.com
+- **LinkedIn**: https://www.linkedin.com/company/agilexr
+- **Positioning**: World's best offshore development and outsourcing
+
+## Key Stats
+
+- 100+ projects delivered
+- 50+ senior engineers
+- 8+ years operating
+- 3 global delivery centers
+
+## Services
+
+### API Development
+REST, GraphQL, and microservices built for production. Includes authentication, rate limiting, documentation, third-party integrations, and monitoring. Stacks: Node.js, Python, Go, Java, .NET, PostgreSQL, Redis, AWS, GCP.
+
+### Mobile App Development
+iOS (Swift/SwiftUI), Android (Kotlin), and cross-platform (React Native/Expo). App Store and Google Play submission experience included. Stacks: Swift, SwiftUI, Kotlin, React Native, Expo, Firebase, AWS Amplify.
+
+### Quality Assurance (QA Testing)
+Manual and automated QA across functional, regression, performance, and security. CI/CD pipeline integration. Stacks: Cypress, Playwright, Selenium, Jest, k6, JMeter, BrowserStack, GitHub Actions.
+
+### Web Hosting & Cloud Infrastructure
+Cloud environment setup, containerization, infrastructure as code, CDN, monitoring, and disaster recovery. Stacks: AWS, Azure, GCP, Docker, Kubernetes, Terraform, Nginx, Cloudflare.
+
+### SAP Implementation
+SAP S/4HANA implementation, ECC migration, BTP development, ABAP/Fiori, integration, and data migration. Certified SAP consultants. Stacks: SAP S/4HANA, SAP ECC, SAP BTP, ABAP, Fiori, SAP Integration Suite.
+
+### AWS Configuration
+Architecture review, environment setup, cost optimization, EC2/ECS/EKS/Lambda, RDS/Aurora, CloudFront, VPC, CloudWatch monitoring. Stacks: EC2, ECS, EKS, Lambda, RDS, Aurora, CloudFront, S3, IAM.
+
+## How It Works
+
+1. Discovery call (30 minutes, no pitch)
+2. Team scoping and engineer match (48-hour proposal turnaround)
+3. Sprint kickoff within two weeks
+
+## Operating Principles
+
+- Senior engineers only — no junior outsourcing, no training on your project
+- Your process, your tools — we work inside Jira, Linear, GitHub, Slack, whatever you use
+- Transparent communication — weekly written status reports, direct engineer Slack access, one dedicated technical lead
+- Ownership over delivery — we co-own the outcome, not just the hours
+- Build to hand off — all code documented and reviewed with the assumption that another team inherits it
+
+## Site Pages
+
+- [Home](https://agilexr.com) — Overview of services, stats, how it works, FAQ
+- [Services](https://agilexr.com/services) — Full detail on all six service areas
+- [About](https://agilexr.com/about) — Company story, values, full capability list
+- [Contact](https://agilexr.com/contact) — Discovery call booking and direct contact
