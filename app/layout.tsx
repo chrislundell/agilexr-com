@@ -5,6 +5,8 @@ import { siteConfig } from '@/lib/utils';
 import { SiteHeader } from '@/components/layout/site-header';
 import { SiteFooter } from '@/components/layout/site-footer';
 import { OrganizationJsonLd, WebSiteJsonLd } from '@/components/seo/json-ld';
+import { GA4 } from '@/components/analytics/ga4';
+import { Cookiebot } from '@/components/analytics/cookiebot';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -86,7 +88,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${interTight.variable}`}>
       <head>
+        <Cookiebot />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="me" href={siteConfig.social.linkedin} />
         <OrganizationJsonLd />
         <WebSiteJsonLd />
@@ -98,6 +102,7 @@ export default function RootLayout({
         <SiteHeader />
         <main id="main">{children}</main>
         <SiteFooter />
+        <GA4 />
       </body>
     </html>
   );
